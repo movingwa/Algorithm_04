@@ -30,11 +30,12 @@ model_3
 **4. Images and corresponding probability that predicted Right**
 
 model_1
-![image](https://user-images.githubusercontent.com/97031651/173353990-85ec6856-1bb3-48a0-9d3c-eed055ef0a93.png)
+
 model_2
-![image](https://user-images.githubusercontent.com/97031651/173353976-b7bddd0f-87bd-4bc1-8fc1-c815ac3011fc.png)
+
 model_3
-![image](https://user-images.githubusercontent.com/97031651/173353958-a703e364-b72a-4d0e-9b7e-7c0ae6b60841.png)
+
+
 **5. Images and corresponding probability that predicted Wrong**
 
 model_1
